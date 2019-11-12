@@ -1,0 +1,40 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.10.5//EN
+N:harms;thomas;;;
+FN:thomas harms
+ORG:mad-code;
+EMAIL;type=INTERNET;type=HOME;type=pref:t.harms@mad-cd.de
+EMAIL;type=INTERNET;type=WORK:work@work.de
+item1.EMAIL;type=INTERNET:dif@somewhere.de
+item1.X-ABLabel:_$!<Other>!$_
+item2.EMAIL;type=INTERNET:dir2@sowmwhere.de
+item2.X-ABLabel:_$!<Other>!$_
+EMAIL;type=INTERNET;type=WORK:t.harms@mad-co.de
+TEL;type=CELL;type=VOICE;type=pref:122 345567889
+TEL;type=IPHONE;type=CELL;type=VOICE:22276 223423598
+TEL;type=HOME;type=VOICE:398445236567
+TEL;type=WORK;type=VOICE:4304750863634856
+TEL;type=MAIN:509382 4589203658
+TEL;type=HOME;type=FAX:632045836
+TEL;type=WORK;type=FAX:7863029865238946
+TEL;type=OTHER;type=FAX:8083624508693864
+TEL;type=PAGER:919237548943697
+TEL;type=OTHER;type=VOICE:9923454235
+TEL;type=OTHER;type=VOICE:76576345272
+TEL;type=CELL;type=VOICE:00 49 176 32014781
+ADR;type=HOME;type=pref:;;privat_street;privat_city;;12345;privat-land
+ADR;type=WORK:;;work-street;work-city;;12345;k-landrow
+ADR;type=OTHER:;;dif-street;dif-city;;54321;dif-land
+item3.ADR;type=HOME:;;Emser Straße 138;Berlin;;10719;
+item3.X-ABADR:de
+NOTE:some more text— noticed
+item4.URL;type=pref:mad-co.de
+item4.X-ABLabel:_$!<HomePage>!$_
+URL;type=HOME:privat@domain.tld
+URL;type=WORK:privatmore@domain.tld
+item5.URL:pirvatmoredif@domain.tld
+item5.X-ABLabel:_$!<Other>!$_
+BDAY:1945-03-12
+X-ABUID:71BEA1A2-A9A2-4E6E-9BD4-B855D14BA581
+END:VCARD
